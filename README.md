@@ -1,2 +1,5 @@
 # Template-Responsive
-Tugas 3 , Alya Alvi Syahrina , 182370115 , SI (2-2) Sore
+Tugas 3 
+Nama : Alya Alvi Syahrina 
+NPM  : 182370115
+Jurusan : SI (2-2) Sore
